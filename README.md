@@ -1,13 +1,6 @@
-# Hello-world
-Ovo je prvi **dokument** izrađen s poveznicom [na Github]. (https://github.com)
+# Izabrana poglavlja iz informacijskih znanosti (ak. god. 2018./2019.)
 
-## Naslov 2
-Ovo je naslov druge razine. [test] (http://www.unizd.hr)
+## Informatika za knjižnice i arhive
 
-### Naslov 3 
-Ovo je naslov treće razine.
+[### 1. Instalacija i postavljanje radnoga okružja] (1-radno-okruzje.md)
 
-#### Naslov 4
-Ovo je naslov četvrte razine.
-
-# Uvod u Markdown
