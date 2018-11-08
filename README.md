@@ -2,5 +2,5 @@
 
 ## Informatika za knjižnice i arhive
 
-[### 1. Instalacija i postavljanje radnoga okružja] (1-radno-okruzje.md)
+[### 1. Instalacija i postavljanje radnoga okružja](1-radno-okruzje.md)
 
